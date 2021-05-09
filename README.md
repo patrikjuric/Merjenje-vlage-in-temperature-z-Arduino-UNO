@@ -16,16 +16,18 @@ Seznam vseh uporabljenih materialov in komponent.
 -1x Upor (560Ω)\
 -1x Upor (10kΩ)\
 
-Ocena delovanja in natančnosti:\
+
+
+Ocena delovanja in natančnosti:
 
 Naprava je pri meritvah dokaj natančna in sicer pri meritvah temperature se je izkazal NTC upor, kot bolj natančni merilec temperature od senzorja DHT11.
 Glede na meritve izmerjene z drugimi merlinimi napravami se je izkazalo da je odstopanje termperaure merjene z NTC uporom približno +/− 0,5°C, z DHT11 senzorjem pa +/− 1°C.
-Odstopanje meritve vlažnosti zraka pa je +/−3%. Vsa odstopanja so v mejah normale, glede na kvaliteto uporablenega materiala. Načeloma pa naprava deluje tekoče, brez kakršnih koli hib ali napak.\
+Odstopanje meritve vlažnosti zraka pa je +/−3%. Vsa odstopanja so v mejah normale, glede na kvaliteto uporablenega materiala. Načeloma pa naprava deluje tekoče, brez kakršnih koli hib ali napak.
 
-Postopek kalibracije NTC upora:\
+Postopek kalibracije NTC upora:
 
-Najprej sem uporu zmeril upornost pri štirih različnih temperaturah in sicer pri 0°C, 25°C, 35°C ter 100°C. Z meritvijo dobljene vrednosti sem nato vpisal v Thermistor Calculator in dobil izračunane Steinhart-Hart koeficiente, ki so optrebni za pravilno delovanje NTC upora kot senzorja za temperaturo. Tabela vrednosti in izračuni so v datoteki......\
+Najprej sem uporu zmeril upornost pri štirih različnih temperaturah in sicer pri 0°C, 25°C, 35°C ter 100°C. Z meritvijo dobljene vrednosti sem nato vpisal v Thermistor Calculator in dobil izračunane Steinhart-Hart koeficiente, ki so optrebni za pravilno delovanje NTC upora kot senzorja za temperaturo. Tabela vrednosti in izračuni so v datoteki......
 
-Predlagane izboljšave:\
+Predlagane izboljšave:
 
 Uporaba kvalitetnejšega materiala, predvsem senzorja, naprava bi bila veliko bolj natančna če bi za zajemanje meritv uporabljala kakšen drug senzor naprimer DHT22, ali špe kakšen kvalitetnejši senzor za vlago in temperaturo.
