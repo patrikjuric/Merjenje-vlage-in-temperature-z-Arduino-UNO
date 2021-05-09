@@ -26,7 +26,7 @@ Odstopanje meritve vlažnosti zraka pa je +/−3%. Vsa odstopanja so v mejah nor
 
 Postopek kalibracije NTC upora:
 
-Najprej sem uporu zmeril upornost pri štirih različnih temperaturah in sicer pri 0°C, 25°C, 35°C ter 100°C. Z meritvijo dobljene vrednosti sem nato vpisal v Thermistor Calculator in dobil izračunane Steinhart-Hart koeficiente, ki so optrebni za pravilno delovanje NTC upora kot senzorja za temperaturo. Tabela vrednosti in izračuni so v datoteki\ (Izračuni za NTC upor.pdf)
+Najprej sem uporu zmeril upornost pri štirih različnih temperaturah in sicer pri 0°C, 25°C, 35°C ter 100°C. Z meritvijo dobljene vrednosti sem nato vpisal v Thermistor Calculator in dobil izračunane Steinhart-Hart koeficiente, ki so optrebni za pravilno delovanje NTC upora kot senzorja za temperaturo. Tabela vrednosti in izračuni so v datoteki  (Izračuni za NTC upor.pdf)
 
 Predlagane izboljšave:
 
